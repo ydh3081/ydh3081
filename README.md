@@ -22,6 +22,12 @@
 
 ## 🛠 Tools
 ![Figma](https://img.shields.io/badge/Figma-183A61?style=for-the-badge&logo=figma&logoColor=white)
+<br><br>
+
+![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=&logoColor=white)
+
+<br><br>
+
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
