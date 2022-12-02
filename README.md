@@ -1,5 +1,6 @@
 ### 안녕하세요 👋
 
+- 📫 How to reach me
 <a href="mailto:ydh3081@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ydh3081@gmail.com"/></a>
 
 
