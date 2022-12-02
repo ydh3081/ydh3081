@@ -22,11 +22,7 @@
 
 ## 🛠 Tools
 ![Figma](https://img.shields.io/badge/Figma-183A61?style=for-the-badge&logo=figma&logoColor=white)
-<br><br>
-
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white)
-
-<br>
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
