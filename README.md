@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="mailto:ydh3081@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ydh3081@gmail.com"/></a>
+
+
+
 <!--
 **ydh3081/ydh3081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
